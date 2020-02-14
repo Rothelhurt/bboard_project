@@ -1,0 +1,6 @@
+bboard_env/
+.idea/
+__pycache__/
+*.sqlite3
+vk.txt
+*.data

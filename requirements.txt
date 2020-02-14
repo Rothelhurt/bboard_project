@@ -27,4 +27,4 @@ soupsieve==1.9.5
 sqlparse==0.3.0
 static3==0.7.0
 urllib3==1.25.8
-psycopg>=2.6.1
+psycopg==2.8.4
